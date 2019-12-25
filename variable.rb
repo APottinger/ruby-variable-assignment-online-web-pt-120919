@@ -1,3 +1,5 @@
-greeting = "Hello World"
+greeting = name(Cassandra)
+  puts "#{name} is fine asf"
+end
 
 
