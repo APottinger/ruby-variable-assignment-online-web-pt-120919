@@ -1,5 +1,5 @@
 greeting = name(Cassandra)
-  puts "#{name} is fine asf"
+  puts "{#name} is fine asf"
 end
 
 
